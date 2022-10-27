@@ -1,0 +1,102 @@
+
+.head{
+    background-color: rgb(60,7,75,0.333);
+    list-style: none;
+    display: flex;
+    font-size: 18px;
+    margin: 0;
+    color: white;
+
+}
+
+.head a{
+    text-decoration: none;
+}
+.mainimg{
+    margin: 0;
+}
+.header{
+    background:url(https://static.tildacdn.com/tild6537-3030-4164-a631-313335613038/2001_i121_016_isomet.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 620px;
+}
+ 
+ .header h2{
+    margin-left: 55px;
+    color:white;
+ }
+
+ .head1{
+    list-style: none;
+    display: flex;
+    margin-top: 110px;
+    color:white
+ }
+ .head1 li{
+    text-decoration: none;
+    margin-left: 15px;
+ }
+ .head1 button{
+    background: orchid;
+    border: 1px solid orchid;
+    border-radius:60px;
+    border-width: 20px;
+    font-size: 18px;
+    color: white;
+ }
+ .button2{
+    margin-left: 70px;
+    border: 1px solid white;
+    color: black;
+ }
+
+ .titles{
+    list-style: none;
+    text-decoration:none;
+    font-size: 50px;
+    margin-left: 15px;
+    color:white;  
+ }
+
+ .whyus{
+   margin-left: 30%;
+   font-size: 45px;
+   margin-top: 100px;
+ }
+ .text1{
+   margin-top: 80px;
+   color:rgb(165, 158, 158)
+ }
+ .texts h3{
+   margin-top: 80px;
+ }
+ .texts{
+   font-size: 18px;
+   width: 60%;
+   margin-left: 350px;
+   margin-top: 30px;
+ }
+
+ .contacts li{
+   list-style: none;
+   margin-left: 80px;
+ }
+ .contacts ul{
+   display: flex;
+ }
+
+ .contacts{
+   height: 400px;
+   background-color:  rgb(87, 51, 134);
+ }
+ .contacts h1{
+   margin-top: 140px;
+   padding-top: 120px;
+   margin-left: 35%;
+   margin-bottom: 90px;
+   font-size: 50px;
+   color: white;
+ }
