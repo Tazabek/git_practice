@@ -28,6 +28,11 @@
 .headLeft{
     margin-right: 50px;
 }
+.headLeft i{
+  color: #D89163;
+  font-size: 18px;
+  padding-left: 5px;
+}
 .headRight ul{
     display: flex;
 }
@@ -38,8 +43,8 @@
 .headRight li{
     margin-left: 15px;
 }
-.headLeft a{
-    margin-left: 30px;
+.headLeft i{
+    margin-left: 20px;
 
 }
 .menu ul{
@@ -91,14 +96,11 @@
     margin-left: 35%;
 }
 .text{
+    text-align: center;
     font-family: 'Oswald', sans-serif;
     color: grey;
     margin: 70px;
 }
-
-
-
-
 
 /* slider */
 .carousel-container {
@@ -177,4 +179,334 @@
   /* new block text */
 .block_text{
     text-align: center;
+}
+
+.room1{
+  float: left;
+  width: 23%;
+  height: 300px;
+  margin-left: 15px;
+  background-image: url(http://rayanhotel.kg/uploads/tiny/177.jpg);
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.room1 h2{
+  text-align: center;
+  padding-top: 20px;
+  color: #fff;
+}
+.room1 button{
+  margin-left:20px;
+  margin-right: 15px;
+  height: 35px;
+  width: 250px;
+  margin-top: 50px;
+  font-size: 20px;
+  background: rgb(185,118,77);
+  color: #fff;
+  border: rgb(185,118,77);
+}
+.button1:hover{
+  background-color: rgb(207, 177, 149);
+}
+.room1 p{
+  margin: 20px;
+  text-align: center;
+  color: #fff;
+}
+.room1 p:hover{
+  background-color: rgba(8, 8, 8, 0.74);
+}
+.room2{
+  float: left;
+  width: 23%;
+  height: 300px;
+  margin-left: 15px;
+  background-image: url(http://rayanhotel.kg/uploads/comforttwin/2.jpg);
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.room2 h2{
+  text-align: center;
+  padding-top: 20px;
+  color: #fff;
+}
+.room2 button{
+  margin-left:20px;
+  margin-right: 15px;
+  height: 35px;
+  width: 250px;
+  margin-top: 67px;
+  font-size: 20px;
+  background: rgb(185,118,77);
+  color: #fff;
+  border: rgb(185,118,77);
+}
+.room2 button:hover{
+  background-color: rgb(207, 177, 149);
+}
+.room2 p{
+  margin: 20px;
+  text-align: center;
+  color: #fff;
+}
+.room2 p:hover{
+  background-color: rgba(8, 8, 8, 0.74);
+}
+.room3{
+  float: left;
+  width: 23%;
+  height: 300px;
+  margin-left: 15px;
+  background-image: url(http://rayanhotel.kg/uploads/besttwin/1.jpg);
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.room3 h2{
+  text-align: center;
+  padding-top: 20px;
+  color: #fff;
+}
+.room3 button{
+  margin-left:20px;
+  margin-right: 15px;
+  height: 35px;
+  width: 250px;
+  margin-top: 67px;
+  font-size: 20px;
+  background: rgb(185,118,77);
+  color: #fff;
+  border: rgb(185,118,77);
+}
+.room3 button:hover{
+  background-color: rgb(207, 177, 149);
+}
+.room3 p{
+  margin: 20px;
+  text-align: center;
+  color:white;
+}
+.room3 p:hover{
+  background-color: rgba(8, 8, 8, 0.74);
+}
+.room4{
+  float: left;
+  width: 23%;
+  height: 300px;
+  margin-left: 15px;
+  margin-right: 40px;
+  background-image: url(http://rayanhotel.kg/uploads/poluluks/1.jpg);
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.room4 h2{
+  text-align: center;
+  padding-top: 20px;
+  color: #fff;
+}
+.room4 button{
+  margin-left:20px;
+  margin-right: 15px;
+  height: 35px;
+  width: 250px;
+  margin-top: 50px;
+  font-size: 20px;
+  background: rgb(185,118,77);
+  color: #fff;
+  border: rgb(185,118,77);
+}
+.room4 button:hover{
+  background-color: rgb(207, 177, 149);
+}
+.room4 p{
+  margin: 20px;
+  text-align: center;
+  color: #fff; 
+}
+.room4 p:hover{
+  background-color: rgba(8, 8, 8, 0.74);
+}
+
+.footer1{
+  width: 28%;
+  height: 300px;
+  border: solid grey;
+  margin-top: 120px;
+  margin-left: 50px;
+  float: left;
+}
+.footer1 i{
+  font-size: 100px;
+  margin-left: 35%;
+  margin-top: 20px;
+  color: rgb(38, 90, 64);
+}
+.footer1 h2{
+  text-align: center;
+  color: rgb(7, 52, 70);
+  margin: 20px;
+}
+.footer1 p{
+  text-align: center;
+  margin: 20px;
+  color: gray;
+  font-family: 'Oswald', sans-serif;
+}
+.footer1:hover{
+  box-shadow:3px 3px 3px 3px grey;
+}
+
+
+.footer2{
+  width: 28%;
+  height: 300px;
+  border: solid grey;
+  margin-top: 120px;
+  margin-left: 35px;
+  float: left;
+}
+.footer2 i{
+  font-size: 100px;
+  margin-left: 35%;
+  margin-top: 20px;
+  color: rgb(224, 142, 34);
+}
+.footer2 h2{
+  text-align: center;
+  color: rgb(7, 52, 70);
+  margin: 20px;
+}
+.footer2 p{
+  text-align: center;
+  margin: 20px;
+  color: gray;
+  font-family: 'Oswald', sans-serif;
+}
+.footer2:hover{
+  box-shadow:3px 3px 3px 3px grey;
+}
+
+
+.footer3{
+  width: 28%;
+  height: 300px;
+  border: solid grey;
+  margin-top: 120px;
+  margin-left: 35px;
+  float: left;
+}
+.footer3 i{
+  font-size: 100px;
+  margin-left: 35%;
+  margin-top: 20px;
+  color: rgb(150,80,112);
+}
+.footer3 h2{
+  text-align: center;
+  color: rgb(7, 52, 70);
+  margin: 20px;
+}
+.footer3 p{
+  text-align: center;
+  margin: 20px;
+  color: gray;
+  font-family: 'Oswald', sans-serif;
+}
+.footer3:hover{
+  box-shadow:3px 3px 3px 3px grey;
+}
+
+
+.footer4{
+  width: 28%;
+  height: 300px;
+  border: solid grey;
+  margin-top: 35px;
+  margin-left: 50px;
+  float: left;
+}
+.footer4 i{
+  font-size: 100px;
+  margin-left: 35%;
+  margin-top: 20px;
+  color: rgb(255,0,0);
+}
+.footer4 h2{
+  text-align: center;
+  color: rgb(7, 52, 70);
+  margin: 20px;
+}
+.footer4 p{
+  text-align: center;
+  margin: 20px;
+  color: gray;
+  font-family: 'Oswald', sans-serif;
+}
+.footer4:hover{
+  box-shadow:3px 3px 3px 3px grey;
+}
+
+
+.footer5{
+  width: 28%;
+  height: 300px;
+  border: solid grey;
+  margin-top: 35px;
+  margin-left: 35px;
+  float: left;
+}
+.footer5 i{
+  font-size: 100px;
+  margin-left: 35%;
+  margin-top: 20px;
+  color: rgb(0,0,255);
+}
+.footer5 h2{
+  text-align: center;
+  color: rgb(7, 52, 70);
+  margin: 20px;
+}
+.footer5 p{
+  text-align: center;
+  margin: 15px;
+  color: gray;
+  font-family: 'Oswald', sans-serif;
+}
+.footer5:hover{
+  box-shadow:3px 3px 3px 3px grey;
+}
+
+
+.footer6{
+  width: 28%;
+  height: 300px;
+  border: solid grey;
+  margin-top: 35px;
+  margin-left: 35px;
+  float: left;
+  margin-bottom: 100px;
+}
+.footer6 i{
+  font-size: 100px;
+  margin-left: 35%;
+  margin-top: 20px;
+  color: rgb(184,134,11);
+}
+.footer6 h2{
+  text-align: center;
+  color: rgb(7, 52, 70);
+  margin: 20px;
+}
+.footer6 p{
+  text-align: center;
+  margin: 15px;
+  color: gray;
+  font-family: 'Oswald', sans-serif;
+}
+.footer6:hover{
+  box-shadow:3px 3px 3px 3px grey;
 }
