@@ -1,0 +1,177 @@
+.head1{
+    background-color: rgb(255,192,23);
+}
+.head1 a{
+    color: black;
+    margin-top: 10px;
+}
+
+.logo{
+    width: 50%;
+    float: left;
+    background-color: rgb(255,192,23);
+    height: 467px;
+    border-top: 1px solid black;
+}
+.logo h1{
+    margin-top: 120px;
+    margin-left: 70px;
+    font-size: 90px;
+    color: black;
+}
+.logo p{
+    margin-left: 70px;
+    font-size: 25px;
+}
+.logo button{
+    margin-left: 70px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    width: 200px;
+    height: 40px;
+    border: black;
+    margin-bottom: 100px;
+}
+.logo1 {
+    float: left;
+    width: 50%;
+    height: 467px;
+    background-color: brown;
+    background-image: url(https://cdn-static-1.medium.com/sites/medium.com/gift/images/sparkle2_transparent.gif);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-top: 20px;
+    background-color: rgb(255,192,23);
+    border-top: 1px solid black;
+    
+}
+
+.dave{
+    list-style-type: none;
+    text-decoration: none;
+    display: flex;
+}
+
+.col1 button{
+    border: none;
+    background: white;
+}
+
+.col1{
+    width: 420px;
+}
+.col1 p{
+    color: black;
+}
+
+
+.brad{
+    list-style-type: none;
+    text-decoration: none;
+    display: flex;
+}
+
+.col2 button{
+    border: none;
+    background: white;
+}
+
+.col2{
+    width: 420px;
+}
+
+.nassim{
+    list-style-type: none;
+    text-decoration: none;
+    display: flex;
+}
+
+.col3 button{
+    border: none;
+    background: white;
+}
+
+.col3{
+    width: 420px;
+}
+
+.simon{
+    list-style-type: none;
+    text-decoration: none;
+    display: flex;
+}
+
+.col4 button{
+    border: none;
+    background: white;
+}
+
+.col4{
+    width: 420px;
+}
+
+.tom{
+    list-style-type: none;
+    text-decoration: none;
+    display: flex;
+}
+
+.col5 button{
+    border: none;
+    background: white;
+}
+
+.col5{
+    width: 420px;
+}
+
+.nat{
+    list-style-type: none;
+    text-decoration: none;
+    display: flex;
+}
+
+.col6 button{
+    border: none;
+    background: white;
+}
+
+.col6{
+    width: 420px;
+}
+
+.news1{
+    width: 35%;
+    float: left;
+    height: 200px;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+.news1 button{
+    border: none;
+    background: white;
+}
+
+.photo1{
+    float: left;
+    height: 200px;
+    width: 300px;
+    background-color: blue;
+    margin-top: 50px;
+}
+
+.side{
+    float: right;
+    width: 400px;
+    height: 1000px;
+    margin-left: 50px;
+    margin-top: 70px;
+
+}
+.side  button{
+    border-radius: 5px;
+    border: 1px solid slategrey;
+    margin-left: 10px;
+    font-size: 15px;
+}
